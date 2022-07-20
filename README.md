@@ -2,9 +2,9 @@
 
 ### Values
 
-$P : Parameter
+$P : Parameter - Signle values
 
-$F : Field
+$F : Field - changing value. Like table values
 
-$V : Variable
+$V : Variable - Functional things. arithmetic operations
 
